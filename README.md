@@ -1,7 +1,7 @@
 # hello-world
 Hello github!
 
-I'm Mackey. 
+I'm Mackey-tech. 
 
 My hobbies are jogging, camera and guitar. 
 (I'm still practicing the guitar and I can't play the song ...)
